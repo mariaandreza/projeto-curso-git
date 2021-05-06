@@ -1,2 +1,2 @@
-# projeto-curso-git 
-# DIO
+# projeto-curso-git
+- DIO
